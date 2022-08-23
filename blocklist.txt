@@ -1,0 +1,7 @@
+# Title: Block Nvidia Shield Updates
+# Version: 20220822.1
+# Description: Block Nvidia Shield Updates
+# Pi-Hole compatible format.
+# Information gathered from https://www.reddit.com/r/ShieldAndroidTV/comments/s4j09r/to_prevent_shield_from_updating_to_90_by_accident/
+
+0.0.0.0 ota.nvidia.com
